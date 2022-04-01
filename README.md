@@ -41,3 +41,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Hounnankan7/Hounnankan7/blob/main/144px-love-app-0.10.png" title="Love2D" alt="Love2D" width="40" height="40"/>&nbsp;
 </div>
+ 
+
+<h1 align = "center"></h1>
+
+### :cyclone: Mes Statistiques :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hounnankan7)](https://github.com/anuraghazra/github-readme-stats)
+  
