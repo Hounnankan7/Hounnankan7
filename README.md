@@ -32,7 +32,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="D3js" alt="D3js" width="40" height="40"/>&nbsp;
-  <img src="" title="Chartjs" alt="Chartjs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Hounnankan7/Hounnankan7/blob/main/chartjs-logo.svg" title="Chartjs" alt="Chartjs" width="40" height="40"/>&nbsp;
 </div>
 
 - Logiciels
