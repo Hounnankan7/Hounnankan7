@@ -36,7 +36,7 @@
   <img src="https://github.com/Hounnankan7/Hounnankan7/blob/main/chartjs-logo.svg" title="Chartjs" alt="Chartjs" width="40" height="40"/>&nbsp;
 </div>
 
-- Logiciels
+- Logiciels & Frameworks
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VsCode" alt="VsCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
