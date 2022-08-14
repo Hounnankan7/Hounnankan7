@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/lTS1DjozKdTKhpH6lv/giphy.gif" width="100"/>
   
   <p>Prince-Donald HOUNNANKAN</p>
-  <p>Etudiant Ingénieur en Réseaux et Systèmes d'Informations</p>
+  <p>Ingénieur en Réseaux et Systèmes d'Informations</p>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/prince-donald-hounnankan-909566177/">
