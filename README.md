@@ -17,7 +17,7 @@
 
 ### :man_technologist: About Me :
   Je suis un étudiant ingénieur réseaux et Système d'Informations en fin de cursus, d'origine béninoise et étudiant en France.
-  - :computer: A la recherche d'un emploi en WEB.
+  - :computer: Je suis interessé par : du développement Web et logiciel, le réseau informatique et le Game Design.
   - :video_game: En ce moment j'explore le domaine du développement de jeu vidéo et le développement web.
   - :bouncing_ball_person: A mes heures libres j'aimes bien jouer au basketball avec des amis et je suis un fan des Golden States Warriors
 <h1 align = "center"></h1>
