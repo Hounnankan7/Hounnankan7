@@ -16,7 +16,7 @@
 </div>
 
 ### :man_technologist: About Me :
-  Ingénieur en réseaux et Système d'Informations, d'origine béninoise et vivant en France.
+  Ingénieur en réseaux et Système d'Informations
   - :computer: Je suis interessé par : du développement Web et logiciel, le réseau informatique et le Dev Jeu Vidéo.
   - :video_game: En ce moment j'explore le domaine du développement de jeu vidéo et le développement web.
   - :bouncing_ball_person: A mes heures libres j'aimes bien jouer au basketball avec des amis et je suis un fan des Golden States Warriors
