@@ -56,5 +56,6 @@ Docker · GitHub Actions (CI/CD) · Terraform · OVH
 
 ### :cyclone: Mes Statistiques
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hounnankan7&layout=compact&theme=tokyonight)](https://github.com/Hounnankan7)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hounnankan7&show_icons=true&theme=tokyonight)](https://github.com/Hounnankan7)
+### :fire: Mon Streak GitHub
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Hounnankan7&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
