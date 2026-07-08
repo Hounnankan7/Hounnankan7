@@ -58,4 +58,4 @@ Docker · GitHub Actions (CI/CD) · Terraform · OVH
 
 ### :fire: Mon Streak GitHub
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Hounnankan7&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Hounnankan7)](https://git.io/streak-stats)
