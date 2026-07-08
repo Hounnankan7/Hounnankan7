@@ -27,10 +27,10 @@ Administrateur Réseaux et Systèmes d'Information, avec une double compétence 
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/proxmox/proxmox-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/proxmox/proxmox-original-wordmark.svg" width="40" height="40"/>&nbsp;
 </div>
 
-Proxmox VE · VMware · OPNsense · NAS Synology / Rockstor · Active Directory / GPO · RADIUS · Aruba · UniFi · GLPI · Tailscale · Pi-hole · Grafana
+VMware · OPNsense · NAS Synology / Rockstor · Active Directory / GPO · RADIUS · Aruba · UniFi · GLPI · Tailscale · Pi-hole · Grafana
 
 **Développement**
 <div>
